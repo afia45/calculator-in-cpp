@@ -16,5 +16,5 @@ _**Input**_
 
 _**Output**_
 
-![Output shows the full operation and the final result](/1.png)
+![Output shows the full operation and the final result](calculator-in-cpp/1.png)
 
