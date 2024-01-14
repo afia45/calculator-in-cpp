@@ -16,4 +16,5 @@ _**Input**_
 
 _**Output**_
 
-Output shows the full operation and the final result
+![Output shows the full operation and the final result](/1.png)
+
