@@ -10,7 +10,7 @@ It can do the following operations:
 3. Multiplication
 4. Division
 
-_**Input**_
+<u>_**Input**_</u>
 - First we enter an operator, either +,-,*,/
 - Then we enter two operands
 
